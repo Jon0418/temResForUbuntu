@@ -1,2 +1,2 @@
 # for transfering things to ubuntu
-https://www.intel.com/content/www/us/en/support/articles/000005511/wireless.html 
+https://askubuntu.com/questions/1352653/intel-ax201-wi-fi-6-is-not-working-on-ubuntu-21-04
